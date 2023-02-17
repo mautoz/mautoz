@@ -2,7 +2,7 @@
 
 I'm Mauricio and I'm a software developer. 
 
-Here you can know some thong about me, but I invite you to visit my [GitHub Page](https://mautoz.github.io/).
+Here you can know some things about me, but I invite you to visit my [GitHub Page](https://mautoz.github.io/).
 <br>
 
 ## 👩‍💻 Skills and technology
