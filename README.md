@@ -40,6 +40,10 @@ In my current job, Python is the most important language I've been working on, w
   <img height=180 src="https://github-readme-stats.vercel.app/api?username=mautoz&show_icons=true&theme=merko">
 </p>
 
+<p align="center">
+  <img height=180 src="![](https://komarev.com/ghpvc/?username=mautoz&style=flat-square)&color=blue">
+</p>
+
 <br>
 
 ## ❤️ Passions and hobbies
