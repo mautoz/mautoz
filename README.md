@@ -41,7 +41,7 @@ In my current job, Python is the most important language I've been working on, w
 </p>
 
 <p align="center">
-  <img height=180 src="![](https://komarev.com/ghpvc/?username=mautoz&style=flat-square)&color=blue">
+  <img height=30 src="https://komarev.com/ghpvc/?username=mautoz&style=flat-square&color=blue">
 </p>
 
 <br>
