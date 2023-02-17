@@ -1,18 +1,28 @@
-<h1 align="center">👋 Welcome to my Github</h3>
+<h1 align="center">👋 Welcome to my Github Profile</h3>
 
-I'm Mauricio
+I'm Mauricio and I'm a software developer. 
 
-This README is under construction!
-
-[My Github Page](https://mautoz.github.io/)
-
-
-
-
+Here you can know some thong about me, but I invite you to visit my [GitHub Page](https://mautoz.github.io/).
 <br>
 
-## 👩‍💻 Skills
+## 👩‍💻 Skills and technology
 
+In my current job, Python is the most important language I've been working on, whether using frameworks or DAGs for Airflow. In addition to this language, I have been studying and using other technologies as you can see below:
+
+### Current work
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,py,flask,selenium,typescript,nodejs,react,postgres,aws,docker,postman" />
+  </a>
+</p>
+
+
+### Study and previous job
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,php,mysql,git,github,c,java,rails" />
+  </a>
+</p>
 
 <br>
 
@@ -34,11 +44,15 @@ This README is under construction!
 
 ## ❤️ Passions and hobbies
 
-- My family
-- My dog Jon Snow (Yes, I really like Game of Thrones)
-- Books (Isaac Asimov is the best sci-fi writer)
-- Comics
-- Play retro games (<img src="https://github.com/nephest/sc2-icons/blob/master/logo/logo-text.svg" width="48px" height="48px" alt="StarCraft2 logo(text)"/>&#160;)
+* My family
+* My friends
+* My dog Jon Snow (Yes, I really like Game of Thrones)
+* Books (Isaac Asimov is the best sci-fi writer)
+* Comics
+* Movies and TV series (BrBa is my favorite)
+* Play retro games (<img height=25 src="https://github.com/nephest/sc2-icons/blob/master/logo/logo-text.svg" width="48px" height="48px" alt="StarCraft"/>)
+* Programming
+* Study languages (I've been studing English and French)
 
 <br>
 
