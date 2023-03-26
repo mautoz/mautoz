@@ -66,10 +66,11 @@ In my current job, Python is the most important language I've been working on, w
   <a href="http://linkedin.com/in/mauricio-ozaki"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://twitter.com/mauricioozaki"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
   <a href="https://stackoverflow.com/users/6542976/mautoz"><img src="https://img.shields.io/badge/stackoverflow-grey?logo=stackoverflow&logoColor=orange&style=for-the-badge" alt="StackOverflow Badge"/></a>
+  <a href="https://discord.com/users/511002091851087872"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/></a>
   <a href="https://www.instagram.com/mauricioozaki/"><img src="https://img.shields.io/badge/instagram-orange?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/></a>
   <a href="https://www.youtube.com.br/@mauricioozaki"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
   <a href="https://www.twitch.tv/mauricioozaki"><img src="https://img.shields.io/badge/twitch-purple?logo=twitch&logoColor=white&style=for-the-badge" alt="Twitch Badge"/></a>
-  <a href="https://mautoz.github.io/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="More about me"/></a>
+  <a href="https://www.mtavaresozaki.com.br"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="More about me"/></a>
   
 </div></center>
 
