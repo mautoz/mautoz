@@ -2,7 +2,7 @@
 
 I'm Mauricio and I'm a software developer / Je m'appelle Mauricio et je suis développeur de logiciels 
 
-Here you can know some things about me, but I invite you to visit my [GitHub Page](https://mautoz.github.io/).
+Here you can know some things about me, but I invite you to visit my [Page](https://mtavaresozaki.com.br/).
 <br>
 
 ## 👩‍💻 Skills and technology
