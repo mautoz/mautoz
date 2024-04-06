@@ -1,6 +1,6 @@
-<h1 align="center">👋 Welcome to my Github Profile</h3>
+<h1 align="center">👋 Welcome to my Github Profile / Bienvenue sur mon profil Github</h3>
 
-I'm Mauricio and I'm a software developer. 
+I'm Mauricio and I'm a software developer / Je m'appelle Mauricio et je suis développeur de logiciels 
 
 Here you can know some things about me, but I invite you to visit my [GitHub Page](https://mautoz.github.io/).
 <br>
@@ -12,7 +12,7 @@ In my current job, Python is the most important language I've been working on, w
 ### Current work
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,py,flask,selenium,typescript,nodejs,react,postgres,aws,docker,postman" />
+    <img src="https://skillicons.dev/icons?i=linux,py,flask,selenium,typescript,nodejs,react,postgres,aws,docker,postman,django" />
   </a>
 </p>
 
@@ -57,6 +57,7 @@ In my current job, Python is the most important language I've been working on, w
 * Play retro games (<img height=25 src="https://github.com/nephest/sc2-icons/blob/master/logo/logo-text.svg" width="48px" height="48px" alt="StarCraft"/>)
 * Programming
 * Study languages (I've been studing English and French)
+* Talk about movies and book (visit <a href="http://www.tropadercy.com.br/">here</a>)
 
 <br>
 
@@ -74,7 +75,7 @@ In my current job, Python is the most important language I've been working on, w
   
 </div></center>
 
-
+@2024
 <!-- <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" /> -->
 <!--
 **mautoz/mautoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
