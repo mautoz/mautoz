@@ -29,7 +29,9 @@ Check out my [personal site](https://mtavaresozaki.com.br) for more.
 **Most used languages**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mautoz&layout=compact&theme=dracula&hide_border=true">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mautoz&theme=dracula">
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mautoz&theme=dracula">
 </p>
 
 ---
