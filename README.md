@@ -1,95 +1,55 @@
-<h1 align="center">👋 Welcome to my Github Profile / Bienvenue sur mon profil Github</h3>
+### Hey, I'm Mauricio 👋
 
-I'm Mauricio and I'm a software developer / Je m'appelle Mauricio et je suis développeur de logiciels 
+I build things mostly for fun — bots, game server plugins, small tools that scratch a personal itch.
 
-Here you can know some things about me, but I invite you to visit my [Page](https://mtavaresozaki.com.br/).
-<br>
+Currently running a Sven Co-op server for friends with custom plugins written in AngelScript, and keeping a few Discord and Telegram bots alive on the side.
 
-## 👩‍💻 Skills and technology
+Check out my [personal site](https://mtavaresozaki.com.br) for more.
 
-In my current job, Python is the most important language I've been working on, whether using frameworks or DAGs for Airflow. In addition to this language, I have been studying and using other technologies as you can see below:
+---
 
-### Current work
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,py,flask,selenium,typescript,nodejs,react,postgres,aws,docker,postman,django" />
-  </a>
-</p>
+**Things I work with**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![AngelScript](https://img.shields.io/badge/AngelScript-555555?style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
 
-### Study and previous job
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,php,mysql,git,github,c,java,rails" />
-  </a>
-</p>
+---
 
-<br>
+**Some projects**
 
-## 📊 Most Used Languages
+🎮 **[sven_coop](https://github.com/mautoz/sven_coop)** — custom plugins and docs for a co-op Half-Life server  
+🤖 **[discord-bot-personal](https://github.com/mautoz/discord-bot-personal)** — movie/TV search, YouTube channel monitor, welcome messages  
+🎙️ **[voice-transcription](https://github.com/mautoz/voice-transcription)** — C3PO-themed Telegram bot that transcribes voice messages  
 
-<p align="center">
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mautoz&theme=merko&layout=compact">
-</p>
+---
 
-<br>
-
-## 📟 GitHub Stats
+**Most used languages**
 
 <p align="center">
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=mautoz&show_icons=true&theme=merko">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mautoz&layout=compact&theme=dracula&hide_border=true">
 </p>
+
+---
+
+**Outside of code**
+
+- Reading — big Asimov fan, currently into Dostoevsky and political non-fiction
+- Movies and series — [Letterboxd](https://letterboxd.com/mauricioozaki/)
+- Retro games, especially co-op stuff
+- Studying French 🇫🇷
+- Writing about movies, books and manga at [Tropa Dercy](https://tropadercy.com.br)
+
+---
 
 <p align="center">
-  <img height=30 src="https://komarev.com/ghpvc/?username=mautoz&style=flat-square&color=blue">
+  <a href="https://linkedin.com/in/mauricioozaki"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://www.youtube.com/@mauricioozaki"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://discord.com/users/511002091851087872"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://mtavaresozaki.com.br"><img src="https://img.shields.io/badge/website-08051e?style=flat&logo=googlechrome&logoColor=00e5ff"/></a>
 </p>
-
-<br>
-
-## ❤️ Passions and hobbies
-
-* My family
-* My friends
-* My dog Jon Snow (Yes, I really like Game of Thrones)
-* Books (Isaac Asimov is the best sci-fi writer)
-* Comics
-* Movies and TV series (BrBa is my favorite)
-* Play retro games (<img height=25 src="https://github.com/nephest/sc2-icons/blob/master/logo/logo-text.svg" width="48px" height="48px" alt="StarCraft"/>)
-* Programming
-* Study languages (I've been studing English and French)
-* Talk about movies and book (visit <a href="http://www.tropadercy.com.br/">here</a>)
-
-<br>
-
-## 📱 My social media links
-
-<center><div id="badges" >
-  <a href="http://linkedin.com/in/mauricio-ozaki"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://twitter.com/mauricioozaki"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-  <a href="https://stackoverflow.com/users/6542976/mautoz"><img src="https://img.shields.io/badge/stackoverflow-grey?logo=stackoverflow&logoColor=orange&style=for-the-badge" alt="StackOverflow Badge"/></a>
-  <a href="https://discord.com/users/511002091851087872"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/></a>
-  <a href="https://www.instagram.com/mauricioozaki/"><img src="https://img.shields.io/badge/instagram-orange?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/></a>
-  <a href="https://www.youtube.com.br/@mauricioozaki"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/></a>
-  <a href="https://www.twitch.tv/mauricioozaki"><img src="https://img.shields.io/badge/twitch-purple?logo=twitch&logoColor=white&style=for-the-badge" alt="Twitch Badge"/></a>
-  <a href="https://www.mtavaresozaki.com.br"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="More about me"/></a>
-  
-</div></center>
-
-@2024
-<!-- <img src="https://readme-jokes.vercel.app/api?hideBorder" alt="Jokes Card" /> -->
-<!--
-**mautoz/mautoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
