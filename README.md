@@ -1,6 +1,6 @@
 ### Hey, I'm Mauricio 👋
 
-I build things mostly for fun — bots, game server plugins, small tools that scratch a personal itch.
+I build things mostly for fun: bots, game server plugins, small tools that scratch a personal itch.
 
 Currently running a Sven Co-op server for friends with custom plugins written in AngelScript, and keeping a few Discord and Telegram bots alive on the side.
 
@@ -20,9 +20,9 @@ Check out my [personal site](https://mtavaresozaki.com.br) for more.
 
 **Some projects**
 
-🎮 **[sven_coop](https://github.com/mautoz/sven_coop)** — custom plugins and docs for a co-op Half-Life server  
-🤖 **[discord-bot-personal](https://github.com/mautoz/discord-bot-personal)** — movie/TV search, YouTube channel monitor, welcome messages  
-🎙️ **[voice-transcription](https://github.com/mautoz/voice-transcription)** — C3PO-themed Telegram bot that transcribes voice messages  
+🎮 **[sven_coop](https://github.com/mautoz/sven_coop)**: custom plugins and docs for a co-op Half-Life server  
+🤖 **[discord-bot-personal](https://github.com/mautoz/discord-bot-personal)**: movie/TV search, YouTube channel monitor, welcome messages  
+🎙️ **[voice-transcription](https://github.com/mautoz/voice-transcription)**: C3PO-themed Telegram bot that transcribes voice messages  
 
 ---
 
@@ -36,8 +36,8 @@ Check out my [personal site](https://mtavaresozaki.com.br) for more.
 
 **Outside of code**
 
-- Reading — big Asimov fan, currently into Dostoevsky and political non-fiction
-- Movies and series — [Letterboxd](https://letterboxd.com/mauricioozaki/)
+- Reading: big Asimov fan, currently into Dostoevsky and political non-fiction
+- Movies and series: [Letterboxd](https://letterboxd.com/mauricioozaki/)
 - Retro games, especially co-op stuff
 - Studying French 🇫🇷
 - Writing about movies, books and manga at [Tropa Dercy](https://tropadercy.com.br)
