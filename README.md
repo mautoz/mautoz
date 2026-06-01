@@ -20,7 +20,7 @@ Check out my [personal site](https://mtavaresozaki.com.br) for more.
 
 **Some projects**
 
-🎮 **[sven_coop](https://github.com/mautoz/sven_coop)**: custom plugins and docs for a co-op Half-Life server  
+🎮 **[sven_coop](https://mautoz.github.io/sven_coop/)**: custom plugins and docs for a co-op Half-Life server  
 🤖 **[discord-bot-personal](https://github.com/mautoz/discord-bot-personal)**: movie/TV search, YouTube channel monitor, welcome messages  
 🎙️ **[voice-transcription](https://github.com/mautoz/voice-transcription)**: C3PO-themed Telegram bot that transcribes voice messages  
 
