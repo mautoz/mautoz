@@ -38,7 +38,7 @@ Check out my [personal site](https://mtavaresozaki.com.br) for more.
 
 **Outside of code**
 
-- Reading: big Asimov fan, currently into Dostoevsky and political non-fiction
+- Reading: big Asimov fan
 - Movies and series: [Letterboxd](https://letterboxd.com/mauricioozaki/)
 - Retro games, especially co-op stuff
 - Studying French 🇫🇷
