@@ -1,8 +1,10 @@
 ### Hey, I'm Mauricio 👋
 
-I build things mostly for fun: bots, game server plugins, small tools that scratch a personal itch.
+Software developer focused on Python, data pipelines, and automation. Day-to-day I work with Apache Airflow, PostgreSQL, GeoPandas, and Flask — building scrapers, ETL workflows, and geospatial tools.
 
-Currently running a Sven Co-op server for friends with custom plugins written in AngelScript, and keeping a few Discord and Telegram bots alive on the side.
+Currently finishing an MBA in Data Science & Analytics.
+
+I also build things for fun: bots, game server plugins, and small tools that scratch a personal itch.
 
 Check out my [personal site](https://mtavaresozaki.com.br) for more.
 
@@ -11,6 +13,11 @@ Check out my [personal site](https://mtavaresozaki.com.br) for more.
 **Things I work with**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![AngelScript](https://img.shields.io/badge/AngelScript-555555?style=flat)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -20,9 +27,11 @@ Check out my [personal site](https://mtavaresozaki.com.br) for more.
 
 **Some projects**
 
-🎮 **[sven_coop](https://mautoz.github.io/sven_coop/)**: custom plugins and docs for a co-op Half-Life server  
-🤖 **[discord-bot-personal](https://github.com/mautoz/discord-bot-personal)**: movie/TV search, YouTube channel monitor, welcome messages  
+🤖 **[reviews-classifier](https://github.com/mautoz/reviews-classifier)**: automatic review classifier using Python and machine learning  
+🔗 **[python-webhook](https://github.com/mautoz/python-webhook)**: Flask-based web interface for manual review labeling  
 🎙️ **[voice-transcription](https://github.com/mautoz/voice-transcription)**: C3PO-themed Telegram bot that transcribes voice messages  
+🤖 **[discord-bot-personal](https://github.com/mautoz/discord-bot-personal)**: movie/TV search, YouTube channel monitor, welcome messages  
+🎮 **[sven_coop](https://mautoz.github.io/sven_coop/)**: custom plugins and docs for a co-op Half-Life server
 
 ---
 
@@ -40,7 +49,7 @@ Check out my [personal site](https://mtavaresozaki.com.br) for more.
 
 - Reading: big Asimov fan
 - Movies and series: [Letterboxd](https://letterboxd.com/mauricioozaki/)
-- Retro games, especially co-op stuff
+- Retro games — I run a [Sven Co-op server](https://svencoop.mtavaresozaki.com.br) with custom plugins
 - Studying French 🇫🇷
 - Writing about movies, books and manga at [Tropa Dercy](https://tropadercy.com.br)
 
