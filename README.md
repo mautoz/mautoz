@@ -1,6 +1,6 @@
 ### Hey, I'm Mauricio 👋
 
-Software developer focused on Python, data pipelines, and automation. Day-to-day I work with Apache Airflow, PostgreSQL, GeoPandas, and Flask — building scrapers, ETL workflows, and geospatial tools.
+Software developer focused on Python, data pipelines, and automation. Day-to-day I work with Apache Airflow, PostgreSQL, GeoPandas, and Flask, building scrapers, ETL workflows, and geospatial tools.
 
 Currently finishing an MBA in Data Science & Analytics.
 
@@ -49,7 +49,7 @@ Check out my [personal site](https://mtavaresozaki.com.br) for more.
 
 - Reading: big Asimov fan
 - Movies and series: [Letterboxd](https://letterboxd.com/mauricioozaki/)
-- Retro games — I run a [Sven Co-op server](https://svencoop.mtavaresozaki.com.br) with custom plugins
+- Retro games: I run a [Sven Co-op server](https://svencoop.mtavaresozaki.com.br) with custom plugins
 - Studying French 🇫🇷
 - Writing about movies, books and manga at [Tropa Dercy](https://tropadercy.com.br)
 
