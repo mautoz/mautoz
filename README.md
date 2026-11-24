@@ -64,3 +64,20 @@ Check out my [personal site](https://mtavaresozaki.com.br) for more.
   &nbsp;
   <a href="https://mtavaresozaki.com.br"><img src="https://img.shields.io/badge/website-08051e?style=flat&logo=googlechrome&logoColor=00e5ff"/></a>
 </p>
+
+---
+
+**Latest films** 🎬
+
+<!-- LETTERBOXD:START --><!-- LETTERBOXD:END -->
+
+---
+
+**Contribution snake** 🐍
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mautoz/mautoz/output/github-snake-dark.svg">
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mautoz/mautoz/output/github-snake.svg">
+  </picture>
+</p>
