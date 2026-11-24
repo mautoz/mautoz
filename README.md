@@ -69,7 +69,11 @@ Check out my [personal site](https://mtavaresozaki.com.br) for more.
 
 **Latest films** 🎬
 
-<!-- LETTERBOXD:START --><!-- LETTERBOXD:END -->
+<!-- LETTERBOXD:START -->
+- [Amadeus, 1984 - ★★★★★](https://letterboxd.com/mauricioozaki/film/amadeus/)
+- [Meet Joe Black, 1998 - ★★★½](https://letterboxd.com/mauricioozaki/film/meet-joe-black/)
+- [Past Lives, 2023 - ★★★★](https://letterboxd.com/mauricioozaki/film/past-lives/)
+<!-- LETTERBOXD:END -->
 
 ---
 
